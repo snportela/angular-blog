@@ -4,7 +4,7 @@
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-Simple Blog application built with Angular. This project was built as a assignment for the "Decola Tech Bootcamp" from DIO.
+Simple Blog application built with Angular. This project was built as an assignment for the "Decola Tech Bootcamp" from DIO.
 
 ## 📝 Prerequisites
 
